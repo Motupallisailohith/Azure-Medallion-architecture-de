@@ -71,25 +71,6 @@ The solution follows a modern cloud data architecture, leveraging Azure services
   * Version Control: Git, GitHub
   * Tools/Libraries: Streamlit, `python-dotenv`, `requests`, `langchain`, `langchain-community`, `langchain-core`, `langchain-ollama`, `langchain-text-splitters`, `chromadb`, `pypdf`, `unstructured`, `huggingface-hub`, `pydantic`, `tiktoken`, `rich`, `diskcache`, `transformers`.
 
-## 🚀 Setup & Deployment
-
-### Local Development Setup
-
-1.  Clone the Repository:
-    ```bash
-    git clone https://github.com/Motupallisailohith/quiverai-local.git
-    cd quiverai-local
-    ```
-2.  Create and Activate Virtual Environment (Python 3.12 Recommended):
-    ```bash
-    # Ensure Python 3.12 is installed on your system
-    py -3.12 -m venv .venv
-    .\.venv\Scripts\Activate.ps1 # On Windows PowerShell
-    # source .venv/bin/activate # On Linux/macOS
-    ```
-
-    ```
-    Your application should open in your browser at `http://localhost:8501`.
 
 
 ## 📚 Project Highlights & Learnings
